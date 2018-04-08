@@ -38,6 +38,8 @@ build
 *build
 *xmind
 doc/Xmind
+doc/images
+*.tex
 Stereo/bin_vocabulary
 Stereo/DUOStereo
 Stereo/ORBvoc.txt
